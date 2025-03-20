@@ -1,6 +1,6 @@
 var oggetti = [];
 var n = 0;
-url = "pag2.html";
+url = "https://matteocaenazzo.github.io/object/pag2.html";
 
 function add(){
     var nome = document.getElementById("nome").value;
